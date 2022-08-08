@@ -19,6 +19,7 @@ public class SwapTwoNumberWithoutThirdVariable {
 	      y = x - y;
 	      x = x - y;
 	  
+	     
 	      System.out.println("After Swapping without third variable\nx = "+x+"\ny = "+y);
 	   }
 
