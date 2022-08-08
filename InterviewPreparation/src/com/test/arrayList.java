@@ -27,10 +27,7 @@ public class arrayList {
         for(int i=0; i<list.size(); i++) {
             System.out.println(list.get(i));
         }
-<<<<<<< HEAD
-       
-=======
->>>>>>> refs/remotes/origin/Myfirst_branch
+
 		System.out.println("Testing for conflict");
 }
 }
