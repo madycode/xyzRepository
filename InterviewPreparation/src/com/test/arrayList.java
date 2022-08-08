@@ -27,8 +27,7 @@ public class arrayList {
         for(int i=0; i<list.size(); i++) {
             System.out.println(list.get(i));
         }
-        System.out.println("Testing for conflict");
-        
-        System.out.println("Testing for conflict-2");
+       
+		System.out.println("Testing for conflict");
 }
 }
